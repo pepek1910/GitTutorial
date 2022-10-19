@@ -8,5 +8,6 @@ int main()
 
 	UdemyTutorial print;
 	print.printMessage();
+	print.printMessage();
 	return 0;
 }
