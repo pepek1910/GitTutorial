@@ -6,3 +6,5 @@ sth edited
 FIRST COMMIT
 Second Commit
 
+outside rebaseTest
+
