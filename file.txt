@@ -7,3 +7,5 @@ Second Commit
 
 
 Rebase test
+
+New annotated tag
